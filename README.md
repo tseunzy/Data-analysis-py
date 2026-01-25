@@ -1,5 +1,5 @@
 
-# NumPy (Python) – Learning Notes + Practice
+# NumPy (Python) – Learning Notes + Practice (USED JUPYTER FOR THIS PROJECT)
 
     This folder contains my hands-on learning notes and practice scripts for **NumPy**, the core Python library for fast numerical computing. I used NumPy to work with arrays, do vectorized math (no loops), clean data, reshape matrices, and perform basic linear algebra.
 
